@@ -7,11 +7,11 @@ join a specific server
 ## How To use?
 If you are not a python master, then: <br>
 Go dowload the copiled version {here} <br>
-` 1- put your Tokens in "Tokens.txt <br>
-  2- start the Joiner.exe <br>
-  3- Insert the discord invite <br>
-  4- Press ENTER <br>
-` <br>
+` 1- put your Tokens in "Tokens.txt` <br>
+`  2- start the Joiner.exe` <br>
+`  3- Insert the discord invite` <br>
+`  4- Press ENTER` <br>
+<br>
 DONE!
 
 ## DISCLAMER
