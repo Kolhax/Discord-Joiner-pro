@@ -6,7 +6,7 @@ join a specific server
 
 ## How To use?
 If you are not a python master, then: <br>
-Go dowload the copiled version {here} <br>
+Go dowload the copiled version <a href="https://github.com/Kolhax/Discord-Joiner-pro/releases/tag/release" target="_blank">here<a> <br>
 ` 1- put your Tokens in "Tokens.txt` <br>
 `  2- start the Joiner.exe` <br>
 `  3- Insert the discord invite` <br>
