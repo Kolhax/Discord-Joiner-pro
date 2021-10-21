@@ -1,5 +1,5 @@
 # Discord-Joiner-pro
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br>
 Discord Joiner Pro , is a discord python based script, <br>
 to mass invite users (Work with tokens) to instant <br>
 join a specific server
@@ -7,11 +7,11 @@ join a specific server
 ## How To use?
 If you are not a python master, then: <br>
 Go dowload the copiled version {here} <br>
-` 1- put your Tokens in "Tokens.txt
-  2- start the Joiner.exe
-  3- Insert the discord invite
-  4- Press ENTER
-`
+` 1- put your Tokens in "Tokens.txt <br>
+  2- start the Joiner.exe <br>
+  3- Insert the discord invite <br>
+  4- Press ENTER <br>
+` <br>
 DONE!
 
 ## DISCLAMER
